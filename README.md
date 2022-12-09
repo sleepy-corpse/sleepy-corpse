@@ -1,7 +1,7 @@
 ### Hi there, My name is Rodion 👋 
 
 - ✔️ I'm a beginner web developer
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React Native
 - 📫 How to reach me: 
   - email: r2svinukhov@gmail.com
   - telegram: [@rodie_on](https://t.me/rodie_on)
