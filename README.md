@@ -1,10 +1,7 @@
-### Hi there, My name is Rodion 👋 
+### Hi there👋 
 
-- ✔️ I'm a beginner web developer
-- 🌱 I’m currently learning Typescript
-- 📫 How to reach me: 
-  - email: r2svinukhov@gmail.com
-  - telegram: [@rodie_on](https://t.me/rodie_on)
+- ✔️ I'm a web developer
+- 🌱 I’m currently learning Nuxt
 
 ### My Tech stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
